@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Bhalani</h1>
 - 🌱 I’m currently learning ... **mongoDB**
 
-- 👯 I’m looking to collaborate on ... **DevOps**
-
 - 🤔 I’m looking for help with ... **Industry Expert**
 
 - 🧑‍💻 All of my projects are available at [https://bhalaniharshit.netlify.app/](https://bhalaniharshit.netlify.app/)
