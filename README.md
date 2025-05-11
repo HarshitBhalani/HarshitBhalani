@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Bhalani</h1>
-- 🌱 I’m currently learning ... **mongoDB**
+- 🌱 I’m currently learning ... **React Native**
 
 - 🤔 I’m looking for help with ... **Industry Expert**
 
