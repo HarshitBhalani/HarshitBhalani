@@ -7,7 +7,7 @@
 
 - 🤔 I’m looking for help with ... **advanced MERN stack features, optimizing web app performance, and integrating third-party APIs.**
 
-- 🧑‍💻 All of my projects are available at [https://bhalaniharshit.netlify.app](https://bhalaniharshit.netlify.app)
+- 🧑‍💻 My portfolio [https://bhalaniharshit.netlify.app](https://bhalaniharshit.netlify.app)
 
 - 📫 How to reach me: ... **harshitbhalani187@gmail.com**
 
