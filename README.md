@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Bhalani</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning ... **React Native**
-
 - 👯 I’m looking to collaborate on ... **MERN stack projects, open-source web apps, and innovative full-stack solutions.**
 
 - 🤔 I’m looking for help with ... **advanced MERN stack features, optimizing web app performance, and integrating third-party APIs.**
